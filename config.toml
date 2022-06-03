@@ -14,7 +14,7 @@ DefaultContentLanguageInSubdir = true
       introTitle = "The Obsolete Marketer"
       introSubtitle = "Helping marketers to tame their robot overlords"
       introPhoto = "/robot-opt.jpg"
-      logo = "/obs-mark-simple.png"
+      logo = "/obs-mark-long.png"
     [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
