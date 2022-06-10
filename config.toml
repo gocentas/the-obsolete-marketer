@@ -14,7 +14,7 @@ DefaultContentLanguageInSubdir = true
       introTitle = "The Obsolete Marketer"
       introSubtitle = "Helping marketers to tame their robot overlords"
       introPhoto = "/robot-opt.jpg"
-      logo = "/obs-mark-long.png"
+      logo = "/obsolete-marketer-logo.png"
     [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
@@ -46,16 +46,16 @@ DefaultContentLanguageInSubdir = true
   copyright = "Copyright © 2022 – The Obsolete Marketer – All rights reserved"
   favicon = "/favicon.png"
 
-  # Color for the intro details and social links block, not applicable for dark mode
+  # Background color for the intro details and social links block, not applicable for dark mode
   # Supported values: Any color from TailwindCSS default colors
   # Reference: https://tailwindcss.com/docs/customizing-colors
-  ascentColor = "bg-blue-100"
+  ascentColor = "bg-green-100"
 
   # The page bundle that is shown on the front page
   frontBundle = "blog"
 
 [params.homepage.social]
-  # Global params xommon for both languages
+  # Global params common for both languages
   title = "Follow me"
   description = "I'm not even sure where this text goes"
   twitter = "https://twitter.com/gocentas_"
