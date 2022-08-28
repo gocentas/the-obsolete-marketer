@@ -2,6 +2,7 @@ baseurl = "https://theobsoletemarketer.com"
 metaDataFormat = "yaml"
 title = "The Obsolete Marketer"
 theme = "blist"
+enableEmoji = true
 
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = true
@@ -11,8 +12,8 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "The Obsolete Marketer"
-      introSubtitle = "Helping marketers to tame their robot overlords"
+      introTitle = "Learn to use the marketing AI that may one day replace you" 
+      introSubtitle = "I explore technology that helps time-strapped marketers increase productivity, find new ideas, and avoid overwhelm. Pick any post below to start."
       introPhoto = "/robot-opt.jpg"
       logo = "/obsolete-marketer-logo.png"
     [[languages.en.menu.main]]
@@ -56,8 +57,8 @@ DefaultContentLanguageInSubdir = true
 
 [params.homepage.social]
   # Global params common for both languages
-  title = "Follow me"
-  description = "I'm not even sure where this text goes"
+  title = "Clearly, what's above wasn't enough"
+  description = "Add some marketing AI and automation to your social feed"
   twitter = "https://twitter.com/gocentas_"
   linkedin = "https://linkedin.com/in/gocentas"
 
