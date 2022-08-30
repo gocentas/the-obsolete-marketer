@@ -45,7 +45,7 @@ DefaultContentLanguageInSubdir = true
 
   # Custom copyright - optional
   copyright = "Copyright © 2022 – The Obsolete Marketer – All rights reserved"
-  favicon = "/favicon.png"
+  favicon = "/tom-favicon.ico"
 
   # Background color for the intro details and social links block, not applicable for dark mode
   # Supported values: Any color from TailwindCSS default colors
