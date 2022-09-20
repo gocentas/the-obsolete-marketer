@@ -26,15 +26,15 @@ DefaultContentLanguageInSubdir = true
         url = "page/about/"
         weight = 2
 
-    [[languages.en.menu.main]]
-        name = "Tags"
-        url = "tags"
-        weight = 3
+    #[[languages.en.menu.main]]
+    #    name = "Tags"
+    #    url = "tags"
+    #    weight = 3
 
     [[languages.en.menu.main]]
         name = "Top Post"
         url = "/en/blog/emoji-support/"
-        weight = 4
+        weight = 3
 
 [params]
   # Enable the darkmode toggle in header

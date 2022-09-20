@@ -5,7 +5,7 @@ description: "The irony of using AI writing tools is that..."
 date: 2022-08-30T07:47:26+03:00
 tags: ["Prompts"]
 thumbnail: /blog-covers/irony-man-web.jpg
-draft: false
+draft: true
 ---
 
 # Placeholder for now #

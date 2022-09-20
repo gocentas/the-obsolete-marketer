@@ -1,26 +1,32 @@
 ---
-author: Katheryn Fox
-title: About Me
-date: 2021-07-15
+author: Raitis
+title: About The Obsolete Marketer
+date: 2022-09-20
 description:
-keywords: ["about-us", "about-hugo", "contact"]
+keywords: ["about-us", "about", "contact"]
 type: about
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hello! 👋
+## What is The Obsolete Marketer? ##
+The Obsolete Marketer gives you the roadmap to expedite marketing tasks with AI-based tech.
 
-Hugo makes use of a variety of open source projects including:
+Most of the content is hands-on and immediately usable by you as a set of instructions. The sites providing high-level reviews never helped much in actually adopting the tools in everyday workflows.
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+Hopefully this will be a welcome change.
+## Is it free? ##
+The advice is, but some of the tools I use might not be. I will try to use the free options whenever they are suitable.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+To keep it genuine I don't use any affiliate links on this website.
+## Who are you? ##
+I'm Raitis (pronounced _right is_). A proper marketing generalist.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+As a result I often find myself working in early stage startups where one has to do all sorts of marketing tasks. It's interesting, but taxing.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+In any marketing discipline there's never a lack of things to do, but once you have to do way more than one, you're at the state of constant trade-offs.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+This is why I've started looking into tools and techniques to get more done.
+
+I won't be getting into time management advice as there's plenty of that online and will instead focus on offsetting the amount of work with AI and other technology that might one day replace us in our jobs.
+
+Or should I say _will replace_?
