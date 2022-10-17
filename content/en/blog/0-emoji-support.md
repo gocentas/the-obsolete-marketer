@@ -5,7 +5,7 @@ date: 2021-07-15
 description: "A brief list of tools and practices you'll benefit from"
 tags: ["MarketingOps"]
 thumbnail: https://picsum.photos/id/1050/400/250
-draft: true
+draft: "true"
 ---
 
 Placeholder text.
