@@ -9,13 +9,13 @@ type: about
 
 Hello! 👋
 ## What is The Obsolete Marketer? ##
-The Obsolete Marketer gives you the roadmap to expedite marketing tasks with AI-based tech.
+The Obsolete Marketer gives you a roadmap to expedite marketing tasks with AI-based tech.
 
 Most of the content is hands-on and immediately usable by you as a set of instructions. The sites providing high-level reviews never helped much in actually adopting the tools in everyday workflows.
 
 Hopefully this will be a welcome change.
 ## Is it free? ##
-The advice is, but some of the tools I use might not be. I will try to use the free options whenever they are suitable.
+The advice is, but many of the tools I use might not be. The goal is not to be cheap, it's to buy yourself some time.
 
 To keep it genuine I don't use any affiliate links on this website.
 ## Who are you? ##

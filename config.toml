@@ -15,7 +15,7 @@ DefaultContentLanguageInSubdir = true
       introTitle = "Learn to use the marketing AI that may one day replace you" 
       introSubtitle = "I explore technology that helps time-strapped marketers increase productivity, find new ideas, and avoid overwhelm. Pick any post below to start."
       introPhoto = "/robot-opt.jpg"
-      logo = "/obsolete-marketer-logo.png"
+      logo = "/obs-marketer-logo-v2-web.png"
     [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
@@ -45,7 +45,7 @@ DefaultContentLanguageInSubdir = true
 
   # Custom copyright - optional
   copyright = "Copyright © 2022 – The Obsolete Marketer – All rights reserved"
-  favicon = "/tom-favicon.ico"
+  favicon = "/favicon.ico"
 
   # Background color for the intro details and social links block, not applicable for dark mode
   # Supported values: Any color from TailwindCSS default colors
