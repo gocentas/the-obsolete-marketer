@@ -15,7 +15,7 @@ DefaultContentLanguageInSubdir = true
       introTitle = "Learn to use the marketing AI that may one day replace you" 
       introSubtitle = "I explore technology that helps time-strapped marketers increase productivity, find new ideas, and avoid overwhelm. Pick any post below to start."
       introPhoto = "/robot-opt.jpg"
-      logo = "/obs-marketer-logo-v2-web.png"
+      logo = "/obs-mark-logo-v2-no-border-800x.png"
     [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
@@ -38,7 +38,7 @@ DefaultContentLanguageInSubdir = true
 
 [params]
   # Enable the darkmode toggle in header
-  darkModeToggle = true
+  darkModeToggle = false
   
   # Enable search in header
   enableSearch = true
